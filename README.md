@@ -37,7 +37,7 @@ A basic todo application with three columns: Serial Number, Todo, and Completed 
 
 1. Install required packages:
 ```bash
-pip install fastapi uvicorn
+pip install -r requirements.txt
 ```
 
 2. Run the application:
